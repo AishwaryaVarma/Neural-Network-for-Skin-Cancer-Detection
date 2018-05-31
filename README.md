@@ -1,5 +1,5 @@
 # Neural-Network-for-Skin-Cancer-Detection
-Own Neural Network was designed and gained accuracy of 90% which was pretty amazing ! 
+Neural Network was designed which was performing pretty good.
 
 ![screencapture-ashwin-6006-2018-05-31-18_40_18](https://user-images.githubusercontent.com/24986485/40785710-026d5db2-6509-11e8-885c-b8fbe44e4752.png)
 
