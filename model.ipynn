@@ -9,6 +9,8 @@
     "import tensorflow as tf\n",
     "import numpy as np \n",
     "import  os \n",
+    "import csv \n"
+    "import pandas as pd \n"
     "from  random import shuffle\n",
     "from tqdm import tqdm\n",
     "tqdm.monitor_interval = 0\n",
